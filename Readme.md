@@ -1,6 +1,6 @@
 ### nginx-php7fpm-redis-for-magento2-envplate
 
-Based on donamkhanh/nginx-php7fpm-redis-for-magento2:v4
+Based on [donamkhanh/nginx-php7fpm-redis-for-magento2:v4](https://github.com/donamkhanh/nginx-php7fpm-redis-for-magento2)
 
  * Adds envplate to template nginx config with env vars
  * enables opcache
